@@ -2,7 +2,7 @@
 
 -I'm currently enrolled at UT Austin
 
--Right now I'm an Art Entertainment Technology Major, but I'm hopefully goiong to transfer to Comp Sci
+-Right now I'm an Art Entertainment Technology Major.
 
 -I would post more of my projects but dont know about how it could effect acedemic integrity.
 
